@@ -258,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-This implementation and the underlying concepts were learned from [CampusX](https://www.campusx.in/), an excellent resource for machine learning education. The PCA implementation code in this repository is sourced from [CampusX]. The code is used for educational purposes to demonstrate PCA concepts and implementation.
+This implementation and the underlying concepts were learned from [CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH), an excellent resource for machine learning education. The PCA implementation code in this repository is sourced from CampusX. The code is used for educational purposes to demonstrate PCA concepts and implementation.
 
 *Note: Future updates will include original implementations and modifications to better reflect personal learning and coding style.*
 
