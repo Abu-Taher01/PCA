@@ -256,6 +256,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@Abu-Taher01](https://github.com/Abu-Taher01)
 - LinkedIn: [Abdullah Al Mamun](https://www.linkedin.com/in/abdullah-al-mamun-003913205/)
 
+## 🙏 Acknowledgments
+
+This implementation and the underlying concepts were learned from [CampusX](https://www.campusx.in/), an excellent resource for machine learning education. The PCA implementation code in this repository is sourced from [CampusX]. The code is used for educational purposes to demonstrate PCA concepts and implementation.
+
+*Note: Future updates will include original implementations and modifications to better reflect personal learning and coding style.*
+
 ## 🔗 Related Links
 
 - [PCA Notebook](https://github.com/Abu-Taher01/PCA/blob/main/PCA.ipynb)
